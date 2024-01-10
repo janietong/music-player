@@ -48,7 +48,7 @@ let track_list = [
   {
     name: "Summer Rain",
     artist: "Maestro One",
-    image: "images/rain.jpeg",
+    image: "rain.jpeg",
     path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/C8TlceNr43lVFwynvcLLoGYrLEVOBo35yishaG7C.mp3?download=1&name=Maestro%20One%20-%20Summer%20Rain.mp3",
   },
 ];
