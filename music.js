@@ -25,13 +25,13 @@
           {
             name: "Take It Back",
             artist: "Crowmander",
-            image: "/images/dark.jpeg",
+            image: "https://i0.wp.com/olumuse.org/wp-content/uploads/2020/12/pasted-image-0-6.png?fit=474%2C324&ssl=1",
             path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/qpYGaUZD07DdvVXL1qYxcgwDoxwYIYaOursbHJRi.mp3?download=1&name=Crowander%20-%20Take%20it%20Back.mp3"
           },
           {
             name: "Balloon Waltz Memory",
             artist: "Dana Boulé",
-            image: "/images/waltz.jpeg",
+            image: "https://storage.googleapis.com/pai-images/781dbb6614cc41da819bd363caf64eb4.jpeg",
             path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Dana_Boul/Blue_Piano/Dana_Boul_-_02_-_Balloon_Waltz_Memory.mp3?download=1&name=Dana%20Boul%C3%A9%20-%20Balloon%20Waltz%20Memory.mp3"
           },
           {
@@ -43,13 +43,13 @@
           {
             name: "Good Morning",
             artist: "Serge Quadrado",
-            image: "/images/sunrise.jpeg",
+            image: "https://i.pinimg.com/originals/99/6a/ec/996aeceeb178f90519d871af662371b8.jpg",
             path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/ZyBGYJ68VTt5DmUimYKLUrCTRqKbSwpsynkzM7wa.mp3?download=1&name=Serge%20Quadrado%20-%20Good%20Morning.mp3",
           },
           {
             name: "Summer Rain",
             artist: "Maestro One",
-            image: "/images/rain.jpeg",
+            image: "https://i.pinimg.com/550x/86/ed/f1/86edf14218eaed6970097bdc5f470ebb.jpg",
             path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/C8TlceNr43lVFwynvcLLoGYrLEVOBo35yishaG7C.mp3?download=1&name=Maestro%20One%20-%20Summer%20Rain.mp3",
           },
         ];
