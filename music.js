@@ -37,7 +37,7 @@
           {
             name: "Shipping Lanes",
             artist: "Chad Crouch",
-            image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+            image: "https://a-american.com/wp-content/uploads/2020/12/shippingcontainers.jpg",
             path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Chad_Crouch/Arps/Chad_Crouch_-_Shipping_Lanes.mp3",
           },
           {
