@@ -24,13 +24,13 @@ let track_list = [
   {
     name: "Take It Back",
     artist: "Crowmander",
-    image: "/images/dark.jpeg",
+    image: "images/dark.jpeg",
     path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/qpYGaUZD07DdvVXL1qYxcgwDoxwYIYaOursbHJRi.mp3?download=1&name=Crowander%20-%20Take%20it%20Back.mp3"
   },
   {
     name: "Balloon Waltz Memory",
     artist: "Dana Boulé",
-    image: "/images/waltz.jpeg",
+    image: "images/waltz.jpeg",
     path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Dana_Boul/Blue_Piano/Dana_Boul_-_02_-_Balloon_Waltz_Memory.mp3?download=1&name=Dana%20Boul%C3%A9%20-%20Balloon%20Waltz%20Memory.mp3"
   },
   {
@@ -42,13 +42,13 @@ let track_list = [
   {
     name: "Good Morning",
     artist: "Serge Quadrado",
-    image: "/images/sunrise.jpeg",
+    image: "images/sunrise.jpeg",
     path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/ZyBGYJ68VTt5DmUimYKLUrCTRqKbSwpsynkzM7wa.mp3?download=1&name=Serge%20Quadrado%20-%20Good%20Morning.mp3",
   },
   {
     name: "Summer Rain",
     artist: "Maestro One",
-    image: "/images/rain.jpeg",
+    image: "images/rain.jpeg",
     path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/C8TlceNr43lVFwynvcLLoGYrLEVOBo35yishaG7C.mp3?download=1&name=Maestro%20One%20-%20Summer%20Rain.mp3",
   },
 ];
