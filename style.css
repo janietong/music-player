@@ -12,10 +12,7 @@ body {
   flex-direction: column;
   justify-content: center;
 }
-img{
-  
 
-}
 .details {
   display: flex;
   align-items: center;
