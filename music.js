@@ -24,7 +24,7 @@ let track_list = [
   {
     name: "Take It Back",
     artist: "Crowmander",
-    image: "images/dark.jpeg",
+    image: "https://hips.hearstapps.com/hmg-prod/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=0.752xw:1.00xh;0.175xw,0&resize=1200:*",
     path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/qpYGaUZD07DdvVXL1qYxcgwDoxwYIYaOursbHJRi.mp3?download=1&name=Crowander%20-%20Take%20it%20Back.mp3"
   },
   {
