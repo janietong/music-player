@@ -24,31 +24,31 @@ let track_list = [
   {
     name: "Take It Back",
     artist: "Crowmander",
-    image: "https://hips.hearstapps.com/hmg-prod/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=0.752xw:1.00xh;0.175xw,0&resize=1200:*",
+    image: "https://static01.nyt.com/images/2022/10/31/opinion/30paul1/30paul1-superJumbo.jpg",
     path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/qpYGaUZD07DdvVXL1qYxcgwDoxwYIYaOursbHJRi.mp3?download=1&name=Crowander%20-%20Take%20it%20Back.mp3"
   },
   {
     name: "Balloon Waltz Memory",
     artist: "Dana Boulé",
-    image: "images/waltz.jpeg",
+    image: "https://i.pinimg.com/236x/aa/33/13/aa3313fde61beda6d14c7afb7825bebf.jpg",
     path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Dana_Boul/Blue_Piano/Dana_Boul_-_02_-_Balloon_Waltz_Memory.mp3?download=1&name=Dana%20Boul%C3%A9%20-%20Balloon%20Waltz%20Memory.mp3"
   },
   {
     name: "Shipping Lanes",
     artist: "Chad Crouch",
-    image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    image: "https://a-american.com/wp-content/uploads/2020/12/shippingcontainers.jpg",
     path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Chad_Crouch/Arps/Chad_Crouch_-_Shipping_Lanes.mp3",
   },
   {
     name: "Good Morning",
     artist: "Serge Quadrado",
-    image: "images/sunrise.jpeg",
+    image: "https://scontent.fyto3-1.fna.fbcdn.net/v/t1.6435-9/82223466_2216216315350432_954689483788255232_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=04bH3bzpn8YAX-oDBy9&_nc_ht=scontent.fyto3-1.fna&oh=00_AfD-2y8GtJrdJ45W20mPQeUXJbVvyajtozQwwEAqBXUF4Q&oe=65C591A1",
     path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/ZyBGYJ68VTt5DmUimYKLUrCTRqKbSwpsynkzM7wa.mp3?download=1&name=Serge%20Quadrado%20-%20Good%20Morning.mp3",
   },
   {
     name: "Summer Rain",
     artist: "Maestro One",
-    image: "rain.jpeg",
+    image: "https://i.pinimg.com/550x/86/ed/f1/86edf14218eaed6970097bdc5f470ebb.jpg",
     path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/C8TlceNr43lVFwynvcLLoGYrLEVOBo35yishaG7C.mp3?download=1&name=Maestro%20One%20-%20Summer%20Rain.mp3",
   },
 ];
