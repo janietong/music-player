@@ -23,8 +23,8 @@ body {
 
 .track-art {
   margin: 25px;
-  height: 270px;
-  width: 270px;
+  height: 350px;
+  width: 350px;
   background-image: url(https://www.pexels.com/photo/blue-vinyl-record-playing-on-turntable-1389429/);
   background-size: cover;
   border-radius: 22%;
@@ -66,7 +66,7 @@ body {
 
 .slider_container {
   width: 100%;
-  max-width: 400px;
+  max-width: 600px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -109,7 +109,7 @@ body {
 }
 
 .volume_slider {
-  width: 25%;
+  width: 30%;
   border-radius: 30%;
 }
 
