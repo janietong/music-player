@@ -24,7 +24,7 @@ let track_list = [
   {
     name: "Take It Back",
     artist: "Crowmander",
-    image: "https://static01.nyt.com/images/2022/10/31/opinion/30paul1/30paul1-superJumbo.jpg",
+    image: "https://hautesecretshoppers.com/wp-content/uploads/2022/03/image3.webp",
     path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/qpYGaUZD07DdvVXL1qYxcgwDoxwYIYaOursbHJRi.mp3?download=1&name=Crowander%20-%20Take%20it%20Back.mp3"
   },
   {
